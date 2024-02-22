@@ -2,8 +2,8 @@
 
 
 
-- 🔭 estudante de Programação..
-- 💻 desenvolvedor de Software ...
+- 🔭 estudante de Ti..
+- 💻 Data analysts,data science 
 - 💬 Meu email para contato : jonatacesar000@gmail.com...
 - 😄 Pronouns:ele/dele ...
 
