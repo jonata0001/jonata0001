@@ -3,7 +3,7 @@
 
 
 - 🔭 estudante de Ti..
-- 💻 Data analysts,data science 
+- 💻 developer,Data analysts
 - 💬 Meu email para contato : jonatacesar000@gmail.com...
 - 😄 Pronouns:ele/dele ...
 
